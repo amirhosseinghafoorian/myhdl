@@ -45,5 +45,4 @@ def testbench():
 
     return clockGen, stimulus, inc_1, monitor
 
-tb = testbench()
-tb.run_sim()
+
